@@ -3,6 +3,8 @@
  * BuddyPress Link Shield
  *
  * @package Link Shield
+ *
+ * @version 0.5.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
