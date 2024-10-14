@@ -1,0 +1,117 @@
+# Translation of WangGuard in Spanish (Spain)
+# This file is distributed under the same license as the WangGuard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WangGuard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 21:59+0100\n"
+"PO-Revision-Date: 2015-03-22 21:59+0100\n"
+"Last-Translator: José Conti <admin@wangguard.com>\n"
+"Language-Team: WangGuard <info@wangguard.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../buddypress-link-shield.php:16 ../link-shield.php:139
+#: ../link-shield.php:159 ../link-shield.php:178
+msgid "link blocked thanks to AEDE Spanish tax"
+msgstr ""
+
+#: ../buddypress-link-shield.php:36
+msgid "Hide link text on BuddyPress?: "
+msgstr ""
+
+#: ../buddypress-link-shield.php:38 ../link-shield.php:77
+#: ../link-shield.php:85 ../link-shield.php:93
+msgid "Replace text with \"Text for hidden links\""
+msgstr ""
+
+#: ../buddypress-link-shield.php:39 ../link-shield.php:78
+#: ../link-shield.php:86 ../link-shield.php:94
+msgid "Show link text"
+msgstr ""
+
+#: ../link-shield.php:28
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../link-shield.php:60
+msgid "settings saved."
+msgstr ""
+
+#: ../link-shield.php:66
+msgid "Links Shield"
+msgstr ""
+
+#: ../link-shield.php:70
+msgid "Text for hidden links:"
+msgstr ""
+
+#: ../link-shield.php:75
+msgid "Hide link text on Post?: "
+msgstr ""
+
+#: ../link-shield.php:83
+msgid "Hide link text on Comments?: "
+msgstr ""
+
+#: ../link-shield.php:91
+msgid "Hide link text on bbPress?: "
+msgstr ""
+
+#: ../link-shield.php:101
+msgid "Shordcode for hide text/links:"
+msgstr ""
+
+#: ../link-shield.php:103
+msgid ""
+"Use this Shordcode for hide links, text, text block, vids, etc to non "
+"logedin users"
+msgstr ""
+
+#: ../link-shield.php:107
+msgid "Text for text hidde by shordcode:"
+msgstr ""
+
+#: ../link-shield.php:108
+msgid ""
+"Add the text to use when you hide text, links, text blocks, vids, etc with "
+"the shordcode"
+msgstr ""
+
+#: ../link-shield.php:112
+msgid "Add rel='nofollow' to comments reply link:"
+msgstr ""
+
+#: ../link-shield.php:113
+msgid ""
+" The reply link will include the comment ID in the URL and will send you "
+"back to the page with the comment form in place to make your reply to the "
+"comment."
+msgstr ""
+
+#: ../link-shield.php:114
+msgid ""
+"The problem is that search engines can follow this link on your page and "
+"will index the page the links goes to. This page is the same as the current "
+"page but will have additional query string options to take to back to the "
+"comment form. These URLs are then indexed in the search engines creating "
+"duplicate context in the search engine index."
+msgstr ""
+
+#: ../link-shield.php:115
+msgid ""
+"A good way to solve this problem is to add a rel=\"nofollow\" to all your "
+"comment reply links, which tells search engines not to follow this link."
+msgstr ""
+
+#: ../link-shield.php:205
+msgid "You need to login for see this content"
+msgstr ""

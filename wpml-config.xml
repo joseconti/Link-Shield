@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="link_shield_text" />
+        <key name="link_shield_shordcode" />
+        <key name="link_shield_blog_show_link_text" />
+        <key name="link_shield_blog_comments_show_link_text" />
+        <key name="link_shield_bbpress_show_link_text" />
+        <key name="link_shield_add_nofollow_to_comments_links" />
+        <key name="link_shield_hidden_text_message" />
+    </admin-texts>
+</wpml-config>
+
+
