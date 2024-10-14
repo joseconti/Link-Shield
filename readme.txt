@@ -3,7 +3,7 @@ Contributors: j.conti
 Author URI: http://wangguard.com
 Tags: linkshield, link shield, block links, hide links, Tasa Google, Google Tax, AEDE, Canon AEDE, CEDRO, buddypress, bbpress, WordPress Multisite, hide text, hide block text, hide videos
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 6.6
 Stable tag: 0.6.0
 License: GPLv2
 
